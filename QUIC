@@ -1,0 +1,8 @@
+QUIC is Google's experimental, low-latency Internet transportation protocol over UDP, a protocol that is often used by gaming, streaming media and VoIP services
+• Networks → Network protocol design; Transport protocols; Cross-layer protocols;
+ QUIC
+replaces most of the traditional HTTPS stack: HTTP/2, TLS.
+transfer of 2 layers of handshakes (initial -> final) between the IP and the server.
+https://storage.googleapis.com/pub-tools-public-publication-data/pdf/8b935debf13bd176a08326738f5f88ad115a071e.pdf
+https://www.chromium.org/quic
+how cache is managed? what hidden in the bought cache?
